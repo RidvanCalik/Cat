@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0G+5H+8G745u0QmW4RRqoqLGPEdpx61l0FzVtEZTZW03l/0YgzeGT5LZZhoVy1DbLN01x7J9WgT+6ppbFZ83ew==",
+  "dgSpecHash": "8ka2H8YHZ9CYL079W0zXcmJWox2s9cml/bQd7t1jhk/z5nUEYx0lkYHl+n9G9Nc1no5WwvTS3xncFXR5/stDIQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ridvan\\source\\repos\\New folder\\CatImagesBackend\\CatImages\\CatImages.csproj",
+  "projectFilePath": "C:\\Users\\ridvan\\source\\repos\\Cat\\CatBackend\\CatImages\\CatImages.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ridvan\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ridvan\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

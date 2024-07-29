@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ridvan\\source\\repos\\New folder\\CatImagesBackend\\CatImages\\CatImages.csproj": {}
+    "C:\\Users\\ridvan\\source\\repos\\Cat\\CatBackend\\CatImages\\CatImages.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ridvan\\source\\repos\\New folder\\CatImagesBackend\\CatImages\\CatImages.csproj": {
+    "C:\\Users\\ridvan\\source\\repos\\Cat\\CatBackend\\CatImages\\CatImages.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ridvan\\source\\repos\\New folder\\CatImagesBackend\\CatImages\\CatImages.csproj",
+        "projectUniqueName": "C:\\Users\\ridvan\\source\\repos\\Cat\\CatBackend\\CatImages\\CatImages.csproj",
         "projectName": "CatImages",
-        "projectPath": "C:\\Users\\ridvan\\source\\repos\\New folder\\CatImagesBackend\\CatImages\\CatImages.csproj",
+        "projectPath": "C:\\Users\\ridvan\\source\\repos\\Cat\\CatBackend\\CatImages\\CatImages.csproj",
         "packagesPath": "C:\\Users\\ridvan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ridvan\\source\\repos\\New folder\\CatImagesBackend\\CatImages\\obj\\",
+        "outputPath": "C:\\Users\\ridvan\\source\\repos\\Cat\\CatBackend\\CatImages\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ridvan\\AppData\\Roaming\\NuGet\\NuGet.Config",

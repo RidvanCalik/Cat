@@ -1,1 +1,4 @@
 CatFrontend/.env
+CatBackend/CatImages/wwwroot/*
+CatBackend/CatImages/obj/*
+CatBackend/CatImages/appsettings.json
