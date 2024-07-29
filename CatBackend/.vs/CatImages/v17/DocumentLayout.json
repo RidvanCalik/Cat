@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ridvan\\source\\repos\\New folder\\CatImagesBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B63104-0693-4269-AD25-7A1660FFCEA6}|CatImages\\CatImages.csproj|c:\\users\\ridvan\\source\\repos\\new folder\\catimagesbackend\\catimages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B63104-0693-4269-AD25-7A1660FFCEA6}|CatImages\\CatImages.csproj|solutionrelative:catimages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B63104-0693-4269-AD25-7A1660FFCEA6}|CatImages\\CatImages.csproj|c:\\users\\ridvan\\source\\repos\\new folder\\catimagesbackend\\catimages\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0B63104-0693-4269-AD25-7A1660FFCEA6}|CatImages\\CatImages.csproj|solutionrelative:catimages\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ridvan\\source\\repos\\New folder\\CatImagesBackend\\CatImages\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CatImages\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ridvan\\source\\repos\\New folder\\CatImagesBackend\\CatImages\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CatImages\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-28T18:49:53.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ridvan\\source\\repos\\New folder\\CatImagesBackend\\CatImages\\Program.cs",
+              "RelativeDocumentMoniker": "CatImages\\Program.cs",
+              "ToolTip": "C:\\Users\\ridvan\\source\\repos\\New folder\\CatImagesBackend\\CatImages\\Program.cs",
+              "RelativeToolTip": "CatImages\\Program.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T14:03:49.634Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

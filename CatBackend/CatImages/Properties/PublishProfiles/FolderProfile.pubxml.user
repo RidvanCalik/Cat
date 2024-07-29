@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\ridvan\source\repos\CatImages\CatImages\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2024-06-28T14:55:38.4661126Z;True|2024-06-28T17:50:28.4841243+03:00;True|2024-06-28T17:05:49.4781873+03:00;True|2024-06-28T01:41:33.7604543+03:00;True|2024-06-28T01:30:59.9826765+03:00;True|2024-06-28T01:30:25.1474314+03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

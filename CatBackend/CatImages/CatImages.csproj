@@ -1,0 +1,88 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="8.0.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.4">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.2" />
+    <PackageReference Include="OpenTelemetry" Version="1.9.0" />
+    <PackageReference Include="OpenTelemetry.Api" Version="1.9.0" />
+    <PackageReference Include="OpenTelemetry.Exporter.Console" Version="1.9.0" />
+    <PackageReference Include="OpenTelemetry.Instrumentation.AspNetCore" Version="1.9.0" />
+    <PackageReference Include="prometheus-net" Version="8.2.1" />
+    <PackageReference Include="prometheus-net.AspNetCore" Version="8.2.1" />
+    <PackageReference Include="prometheus-net.AspNetCore.Grpc" Version="8.2.1" />
+    <PackageReference Include="prometheus-net.AspNetCore.HealthChecks" Version="8.2.1" />
+    <PackageReference Include="prometheus-net.NetFramework.AspNet" Version="8.2.1" />
+	  <PackageReference Include="OpenTelemetry.Exporter.Prometheus.AspNetCore" Version="1.7.0-alpha.1" />
+	  <PackageReference Include="OpenTelemetry.Extensions.Hosting" Version="1.9.0" />
+    <PackageReference Include="RabbitMQ.Client" Version="6.8.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+    <PackageReference Include="System.Text.Json" Version="8.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Migrations\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\25p.jpg" />
+    <None Include="wwwroot\3u8.png" />
+    <None Include="wwwroot\4hp.gif" />
+    <None Include="wwwroot\6ph.jpg" />
+    <None Include="wwwroot\8nb.jpg" />
+    <None Include="wwwroot\8rj.jpg" />
+    <None Include="wwwroot\9gh.jpg" />
+    <None Include="wwwroot\9h7.jpg" />
+    <None Include="wwwroot\a34.jpg" />
+    <None Include="wwwroot\aui.jpg" />
+    <None Include="wwwroot\b0k.jpg" />
+    <None Include="wwwroot\b19.jpg" />
+    <None Include="wwwroot\b4q.jpg" />
+    <None Include="wwwroot\b5t.jpg" />
+    <None Include="wwwroot\bb0.jpg" />
+    <None Include="wwwroot\bgb.jpg" />
+    <None Include="wwwroot\bol.jpg" />
+    <None Include="wwwroot\c0r.jpg" />
+    <None Include="wwwroot\cea.jpg" />
+    <None Include="wwwroot\ck6.jpg" />
+    <None Include="wwwroot\cmr.gif" />
+    <None Include="wwwroot\dhs.jpg" />
+    <None Include="wwwroot\dl5.jpg" />
+    <None Include="wwwroot\Dqtad3dGZ.jpg" />
+    <None Include="wwwroot\e5k.jpg" />
+    <None Include="wwwroot\egf.jpg" />
+    <None Include="wwwroot\gs.jpg" />
+    <None Include="wwwroot\HVP1wfZF0.jpg" />
+    <None Include="wwwroot\iRMmnkFTl.png" />
+    <None Include="wwwroot\j3WPHuW7A.jpg" />
+    <None Include="wwwroot\MjA0MTUxNw.jpg" />
+    <None Include="wwwroot\MjA5MDM3OQ.jpg" />
+    <None Include="wwwroot\MjAwMDc1MQ.jpg" />
+    <None Include="wwwroot\MjAxNzczOQ.jpg" />
+    <None Include="wwwroot\MTcxNzk5Ng.jpg" />
+    <None Include="wwwroot\MTg5NjEwOA.jpg" />
+    <None Include="wwwroot\MTk4OTAxMA.jpg" />
+    <None Include="wwwroot\MTk5MjU2Nw.jpg" />
+    <None Include="wwwroot\MTQ5OTA4NA.jpg" />
+    <None Include="wwwroot\MTU2ODI3MA.jpg" />
+    <None Include="wwwroot\MTU3NzQ4OA.jpg" />
+    <None Include="wwwroot\MTYyOTYwNw.jpg" />
+    <None Include="wwwroot\MTYzOTg4OQ.gif" />
+    <None Include="wwwroot\oi.jpg" />
+    <None Include="wwwroot\uo.jpg" />
+    <None Include="wwwroot\WXcD6qZEn.jpg" />
+    <None Include="wwwroot\XFhRpYS_D.jpg" />
+  </ItemGroup>
+
+</Project>
